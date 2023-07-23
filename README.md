@@ -1,1 +1,1 @@
-My first readme
+Well, this is FUN
